@@ -106,7 +106,7 @@ const CategoryShowcase = () => {
               <li onClick={() => filterItem("Shoes")}>Shoes</li>
               <li onClick={() => filterItem("Bags")}>Bags</li>
               <li onClick={() => filterItem("Phones")}>Phones</li>
-              <li onClick={() => filterItemm("Beauty")}>Beauty</li>
+              <li onClick={() => filterItem("Beauty")}>Beauty</li>
             </ul>
           </div>
         </div>
